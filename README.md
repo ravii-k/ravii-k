@@ -2,7 +2,9 @@
 
 <!-- ANIMATED GOLD WAVE HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ravionite&fontSize=85&fontColor=FFD700&fontAlignY=42&animation=fadeIn" />
-
+	-
+<!-- ANIMATED HERO HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Ravionite&fontSize=85&fontColor=B8C8FF&fontAlignY=42&desc=Ravi%20Kashyap%20%E2%80%A2%20Builder%20%C2%B7%20Thinker%20%C2%B7%20Creator&descAlignY=65&descColor=A78BFA&animation=fadeIn&stroke=7C3AED&strokeWidth=1" />
 </div>
 
 <div align="center">
@@ -13,7 +15,7 @@
 
 <sub>💭 &nbsp; *We are all living in a simulation* &nbsp; 💭</sub>
 
-### 🔮 &nbsp; `< hello, world />` &nbsp; 🔮
+### 🔮 &nbsp; `< Hello, World />` &nbsp; 🔮
 
 *Building systems that think. Writing code that lasts.*
 
@@ -34,7 +36,7 @@ ravionite = {
     "name"       : "Ravi Kashyap",
     "alias"      : "Ravionite 🌌",
     "location"   : "Dedwa, India 🇮🇳",
-    "degree"     : "Masters in Computer Science 🎓",
+    "degree"     : "Master's in Computer Science 🎓",
     "focus"      : ["AI & LLM Systems 🤖", "Clean Software 🧹", "Real-World Tools ⚙️"],
     "philosophy" : "Keep things simple, but powerful. ⚡",
     "status"     : "Always learning. Always building. 🔥"
