@@ -1,11 +1,17 @@
 <div align="center">
 
-<!-- ANIMATED HERO HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Ravionite&fontSize=85&fontColor=B8C8FF&fontAlignY=42&desc=Ravi%20Kashyap%20%E2%80%A2%20Builder%20%C2%B7%20Thinker%20%C2%B7%20Creator&descAlignY=65&descColor=A78BFA&animation=fadeIn&stroke=7C3AED&strokeWidth=1" />
+<!-- ANIMATED GOLD WAVE HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ravionite&fontSize=85&fontColor=FFD700&fontAlignY=42&animation=fadeIn" />
 
 </div>
 
 <div align="center">
+
+![Ravi Kashyap](https://img.shields.io/badge/Ravi%20Kashyap-0d0f1a?style=for-the-badge&labelColor=4F46E5&color=4F46E5)&nbsp;![Builder](https://img.shields.io/badge/Builder-0d0f1a?style=for-the-badge&labelColor=7C3AED&color=7C3AED)&nbsp;![Thinker](https://img.shields.io/badge/Thinker-0d0f1a?style=for-the-badge&labelColor=2563EB&color=2563EB)&nbsp;![Creator](https://img.shields.io/badge/Creator-0d0f1a?style=for-the-badge&labelColor=6D28D9&color=6D28D9)
+
+<br/>
+
+<sub>💭 &nbsp; *We are all living in a simulation* &nbsp; 💭</sub>
 
 ### 🔮 &nbsp; `< hello, world />` &nbsp; 🔮
 
@@ -146,6 +152,6 @@ ravionite = {
 
 **🔮 Always learning. Always building.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&animation=fadeIn&stroke=7C3AED&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=fadeIn" />
 
 </div>
