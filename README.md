@@ -1,194 +1,159 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,15,18,21,24&height=200&section=header&text=RAVIONITE&fontSize=72&fontColor=00FF88&fontAlignY=50&desc=%3E_%20initializing%20profile...&descAlignY=72&descColor=39FF14&animation=blinking&stroke=00FF88&strokeWidth=2" />
-
+<!-- ANIMATED GOLD WAVE HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ravionite&fontSize=85&fontColor=FFD700&fontAlignY=42&animation=fadeIn" />
+	
+<!-- ANIMATED HERO HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&descAlignY=65&descColor=A78BFA&animation=fadeIn&stroke=7C3AED&strokeWidth=1" />
 </div>
-
-<br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Ravi+Kashyap+%7C+Ravionite+%F0%9F%8C%8C;Building+Systems+That+Think+%F0%9F%A4%96;Always+Learning.+Always+Building.+%F0%9F%94%A5)](https://git.io/typing-svg)
-
-</div>
+![Ravi Kashyap](https://img.shields.io/badge/Ravi%20Kashyap-0d0f1a?style=for-the-badge&labelColor=4F46E5&color=4F46E5)&nbsp;![Builder](https://img.shields.io/badge/Builder-0d0f1a?style=for-the-badge&labelColor=7C3AED&color=7C3AED)&nbsp;![Thinker](https://img.shields.io/badge/Thinker-0d0f1a?style=for-the-badge&labelColor=2563EB&color=2563EB)&nbsp;![Creator](https://img.shields.io/badge/Creator-0d0f1a?style=for-the-badge&labelColor=6D28D9&color=6D28D9)
 
 <br/>
 
-<div align="center">
+<sub>💭 &nbsp; *We are all living in a simulation* &nbsp; 💭</sub>
 
-<kbd>🌐 [Website](https://ravii-k.github.io/Ravionite/index.html)</kbd> &nbsp;•&nbsp; <kbd>📸 [@ravionite](https://www.instagram.com/ravionite/)</kbd> &nbsp;•&nbsp; <kbd>✉️ kashyap01212@gmail.com</kbd> &nbsp;•&nbsp; <kbd>📍 Dedwa, India</kbd>
+### 🔮 &nbsp; `< Hello, World />` &nbsp; 🔮
 
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ravii-k&color=00FF88&style=flat-square&label=PROFILE+VIEWS" />
-</div>
+*Building systems that think. Writing code that lasts.*
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  💭  We are all living in a simulation                          ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+[![Website](https://img.shields.io/badge/🌐_Website-Ravionite-818CF8?style=for-the-badge&labelColor=0d0f1a&color=4F46E5)](https://ravii-k.github.io/Ravionite/index.html)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-@ravionite-C026D3?style=for-the-badge&labelColor=0d0f1a&color=7C3AED)](https://www.instagram.com/ravionite/)
+[![Email](https://img.shields.io/badge/✉️_Mail-kashyap01212@gmail.com-6366F1?style=for-the-badge&labelColor=0d0f1a&color=6366F1)](mailto:kashyap01212@gmail.com)
+
+</div>
 
 ---
 
-## `[ 01 ]` &nbsp; SYSTEM IDENTITY
+## 🧬 &nbsp; `whoami`
 
-```json
-{
-  "operator"   : "Ravi Kashyap",
-  "handle"     : "Ravionite 🌌",
-  "node"       : "Dedwa, India 🇮🇳",
-  "clearance"  : "Masters in Computer Science 🎓",
-  "directives" : ["AI & LLM Systems 🤖", "Clean Software 🧹", "Real-World Tools ⚙️"],
-  "axiom"      : "Keep things simple, but powerful. ⚡",
-  "uptime"     : "ONLINE — Always learning. Always building. 🔥"
+```python
+ravionite = {
+    "name"       : "Ravi Kashyap",
+    "alias"      : "Ravionite 🌌",
+    "location"   : "Dedwa, India 🇮🇳",
+    "degree"     : "Master's in Computer Science 🎓",
+    "focus"      : ["AI & LLM Systems 🤖", "Clean Software 🧹", "Real-World Tools ⚙️"],
+    "philosophy" : "Keep things simple, but powerful. ⚡",
+    "status"     : "Always learning. Always building. 🔥"
 }
 ```
 
 ---
 
-## `[ 02 ]` &nbsp; ACTIVE DEPLOYMENTS
+## 🚀 &nbsp; What I'm Building
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  PROJECT             STACK                        STATUS        │
-├─────────────────────────────────────────────────────────────────┤
-│  🧠 MemoryWeave      Python · spaCy · ChromaDB    ⚡ Phase 3   │
-│     Universal LLM memory SDK                                    │
-├─────────────────────────────────────────────────────────────────┤
-│  📒 R-Journal        Swift · SwiftUI · Charts     ✅ LIVE       │
-│     macOS trading journal for Nifty 50                          │
-├─────────────────────────────────────────────────────────────────┤
-│  ✂️  R-Cliponite      Swift · SwiftUI              ✅ LIVE       │
-│     Clipboard tool for macOS                                    │
-├─────────────────────────────────────────────────────────────────┤
-│  🌐 Ravionite        HTML · CSS · JavaScript      ✅ LIVE       │
-│     Personal digital hub                                        │
-└─────────────────────────────────────────────────────────────────┘
-```
+| Project | Stack | Status |
+|---|---|---|
+| 🧠 **[MemoryWeave](https://github.com/ravii-k/memoryweave)** — Universal LLM memory SDK | Python · spaCy · ChromaDB | 🟣 Phase 3 |
+| 📒 **[R-Journal](https://github.com/ravii-k/R-Journal)** — macOS trading journal for Nifty 50 | Swift · SwiftUI · Swift Charts | ✅ Live |
+| ✂️ **[R-Cliponite](https://github.com/ravii-k/R-Cliponite)** — Clipboard tool for macOS | Swift · SwiftUI | ✅ Live |
+| 🌐 **[Ravionite](https://github.com/ravii-k/Ravionite)** — Personal digital hub | HTML · CSS · JS | ✅ Live |
 
 ---
 
-## `[ 03 ]` &nbsp; TECH MATRIX
+## 🛠️ &nbsp; Tech Stack
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,swift,java,html,css,js,bash,git,github,vscode,xcode,linux&theme=dark&perline=6)](https://skillicons.dev)
+**✦ Languages ✦**
 
-<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0075D8?style=for-the-badge&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-| Layer | Technologies |
-|:---:|:---|
-| **Languages** | Python · Swift · SwiftUI · Java · HTML · CSS · JavaScript · Shell |
-| **AI / NLP** | spaCy · Pydantic · ChromaDB · NetworkX · LLM Pipelines |
-| **DevOps** | Git · GitHub Actions · CI/CD (Python 3.10–3.12) · Ruff |
-| **Env** | macOS M2 · Xcode · VS Code · Terminal |
+**✦ AI / Data ✦**
+
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-4F46E5?style=for-the-badge&logoColor=white)
+
+**✦ Tools & Environment ✦**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-6366F1?style=for-the-badge&logo=githubactions&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS_M2-818CF8?style=for-the-badge&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-7C3AED?style=for-the-badge&logoColor=white)
 
 </div>
 
 ---
 
-## `[ 04 ]` &nbsp; METRICS
+## 📊 &nbsp; GitHub Stats
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ravii-k&show_icons=true&theme=chartreuse-dark&bg_color=0a0a0a&title_color=00FF88&icon_color=39FF14&text_color=88FF88&border_color=00FF8844&count_private=true&hide_border=false" />
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravii-k&layout=compact&theme=chartreuse-dark&bg_color=0a0a0a&title_color=00FF88&text_color=88FF88&border_color=00FF8844&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravii-k&show_icons=true&theme=tokyonight&bg_color=0d0f1a&title_color=818CF8&icon_color=7C3AED&text_color=C4B5FD&border_color=4F46E533&hide_border=false&count_private=true" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravii-k&layout=compact&theme=tokyonight&bg_color=0d0f1a&title_color=818CF8&text_color=C4B5FD&border_color=4F46E533&hide_border=false" />
 
 </div>
 
-<br/>
-
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ravii-k&theme=dark&background=0a0a0a&border=00FF8844&ring=00FF88&fire=39FF14&currStreakLabel=00FF88&sideLabels=39FF14&dates=88FF88&stroke=00FF88)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ravii-k&bg_color=0a0a0a&color=00FF88&line=39FF14&point=00FF88&area=true&area_color=00FF8822&hide_border=false&border_color=00FF8844&title_color=00FF88)
+![GitHub Streak](https://streak-stats.demolab.com?user=ravii-k&theme=tokyonight&background=0d0f1a&border=4F46E533&ring=7C3AED&fire=A78BFA&currStreakLabel=818CF8&sideLabels=A78BFA&dates=C4B5FD)
 
 </div>
 
 ---
 
-## `[ 05 ]` &nbsp; SIGNAL FREQUENCIES
+## 🧠 &nbsp; Areas of Interest
 
-```bash
-$ cat /etc/interests.conf
-
-[ARTIFICIAL_INTELLIGENCE]   →  LLMs, memory systems, NLP pipelines
-[BUILD_FROM_SCRATCH]        →  SDKs, tools, frameworks, native apps
-[DATA_ANALYSIS]             →  Extracting signal from noise
-[AUTOMATION]                →  Systems that reduce friction
-[CLEAN_UI_UX]               →  Minimal. Purposeful. Precise.
+```
+🤖  Artificial Intelligence        →  LLMs, memory systems, NLP pipelines
+🏗️  Building from Scratch          →  SDKs, tools, frameworks, native apps
+📊  Data Analysis                  →  Extracting signal from noise
+⚙️  Automation                     →  Systems that reduce friction
+🎨  Clean UI/UX                    →  Minimal. Purposeful. Precise.
 ```
 
 ---
 
-## `[ 06 ]` &nbsp; CURRENT PROCESSES
+## 🌱 &nbsp; Currently
 
-```bash
-$ ps aux | grep ravionite
-
-[BUILDING]  MemoryWeave Phase 3 — Embedder · InMemoryStore · ChromaDB · KnowledgeGraph
-[LEARNING]  AI workflows · Productivity systems · LLM application architecture
-[GROWING]   Mental clarity · Disciplined consistency · Deep focus
-[TARGET]    Ship meaningful, real-world AI tooling
-```
+- 🔭 **Building** — `MemoryWeave` Phase 3: Storage layer (Embedder · InMemoryStore · ChromaDB · KnowledgeGraph)
+- 📖 **Learning** — AI workflows · Productivity systems · LLM application architecture
+- 🧘 **Growing** — Mental clarity · Disciplined consistency · Deep focus
+- 🎯 **Goal** — Ship meaningful, real-world AI tooling
 
 ---
 
-## `[ 07 ]` &nbsp; CORE AXIOM
+## ✨ &nbsp; Philosophy
 
 <div align="center">
 
-```
- ╔═══════════════════════════════════════════╗
- ║                                           ║
- ║   " Keep things simple, but powerful. "  ║
- ║                              — Ravionite  ║
- ╚═══════════════════════════════════════════╝
-```
+> *"Keep things simple, but powerful."* &nbsp; ⚡
 
 </div>
 
 ---
 
-## `[ 08 ]` &nbsp; OFF THE GRID
+## ⚡ &nbsp; Fun Side
 
-```bash
-$ whoami --personal
-
+```
 ✍️  Writing thoughts & ideas when code isn't enough
-🧩  Building systems for a better life & work  
-📍  Transmitting from Dedwa, India → to the world 🌍
+🧩  Building systems for a better life & work
+📍  Based in Dedwa, India — building for the world 🌍
 ```
 
 ---
 
-<br/>
-
 <div align="center">
 
-```
-> process complete.
-> ravionite@github:~$ █
-```
+**🔮 Always learning. Always building.**
 
-**⚡ Always learning. Always building.**
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,15,18,21,24&height=120&section=footer&animation=blinking&stroke=00FF88&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=fadeIn" />
 
 </div>
