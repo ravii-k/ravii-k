@@ -124,7 +124,7 @@ ravionite = {
 ## 🌱 &nbsp; Currently
 
 - 🔭 **Building** — `MemoryWeave` Phase 3: Storage layer (Embedder · InMemoryStore · ChromaDB · KnowledgeGraph)
-- 📖 **Learning** — AI workflows · Productivity systems · LLM application architecture
+- 📖 **Learning** — AI workflows · Productivity systems · LLM application architecture 
 - 🧘 **Growing** — Mental clarity · Disciplined consistency · Deep focus
 - 🎯 **Goal** — Ship meaningful, real-world AI tooling
 
